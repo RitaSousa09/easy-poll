@@ -1,0 +1,39 @@
+{
+    "media": null,
+    "poll_config": {
+        "allow_comments": true,
+        "allow_indeterminate": false,
+        "allow_other_option": true,
+        "allow_sharing": true,
+        "allow_vpn_users": true,
+        "deadline_at": null,
+        "duplication_checking": "none",
+        "edit_vote_permissions": "everybody",
+        "force_appearance": null,
+        "hide_embed_vote_count": false,
+        "hide_other_option_results": false,
+        "hide_participants": false,
+        "is_multiple_choice": true,
+        "is_private": true,
+        "layout": null,
+        "max_points": 31,
+        "multiple_choice_max": 0,
+        "multiple_choice_min": 0,
+        "number_of_winners": 1,
+        "open_at": null,
+        "randomize_options": false,
+        "require_voter_account": false,
+        "require_voter_names": true,
+        "results_visibility": "always",
+        "show_write_in_options": false,
+        "strict_checking": true,
+        "vote_type": "default"
+    },
+    "poll_meta": {
+        "description": "",
+        "location": null
+    },
+    "poll_options": [],
+    "title": "",
+    "type": "multiple_choice"
+}
